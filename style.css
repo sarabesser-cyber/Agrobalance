@@ -63,7 +63,7 @@ nav a:hover::after {
 /* HERO SIMPLES */
 
 .hero {
-    background: url("../img/banner.jpg") center/cover no-repeat;
+    background: url("img/banner.jpg") center/cover no-repeat;
     min-height: 300px;
     display: flex;
     align-items: center;
